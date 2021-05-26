@@ -1,0 +1,6 @@
+streamlit-pandas-profiling==0.1.2
+streamlit==0.82.0
+pandas-profiling==2.10.1
+sweetviz==2.1.0
+dtale==1.47.0 
+pandas==1.2.4    
